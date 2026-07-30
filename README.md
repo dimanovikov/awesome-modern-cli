@@ -264,6 +264,7 @@ Faster, prettier, smarter replacements for the Unix utilities you use every day.
 
 - [csvlens](https://github.com/YS-L/csvlens) - A TUI CSV file viewer, like less but made for tabular data. `Rust`
 - [dasel](https://github.com/tomwright/dasel) - Query and modify JSON, YAML, TOML, and XML from the command line. `Go`
+- [datadiff](https://github.com/cloudroad-io/datadiff) - A semantic diff for structured data files — shows what changed in JSON, YAML, CSV, TOML, and XML by meaning, not by lines. `Rust`
 - [dyff](https://github.com/homeport/dyff) - A diff tool for YAML files with semantic awareness. `Go`
 - [fx](https://github.com/antonmedv/fx) - Terminal JSON viewer and processor with interactive mode. `Go`
 - [gron](https://github.com/tomnomnom/gron) - Make JSON greppable by flattening it to discrete assignments. `Go`
